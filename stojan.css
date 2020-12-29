@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    background-color:grey;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: bolder;
+}
